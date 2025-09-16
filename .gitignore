@@ -98,3 +98,8 @@ crashlytics-build.properties
 !/[Pp]ackages/
 !/Packages/manifest.json
 !/Packages/packages-lock.json
+[Ll]ibrary/
+[Ll]ibrary/PackageCache/
+[Ll]ibrary/PackageCache/com.unity.burst*/.Runtime/
+[Ll]ibrary/PackageCache/com.unity.burst*/.Runtime/libburst-llvm-*.dylib
+*.dylib
